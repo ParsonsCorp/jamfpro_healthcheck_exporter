@@ -1,7 +1,5 @@
 # Jamf Health Check Example
 
-[![Go Report Card](https://goreportcard.com/badge/github.com/polarisalpha/jamfpro_healthcheck_exporter)](https://goreportcard.com/report/github.com/polarisalpha/jamfpro_healthcheck_exporter)
-
 Can use this file to represent the scrape endpoint.
 
 ## Process

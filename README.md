@@ -1,5 +1,7 @@
 # JamfPro Health Check Exporter for Prometheus
 
+[![Go Report Card](https://goreportcard.com/badge/github.com/polarisalpha/jamfpro_healthcheck_exporter)](https://goreportcard.com/report/github.com/polarisalpha/jamfpro_healthcheck_exporter)
+
 The Jamf Pro health check page allows you to view the status of your environment.
 
 This exporter is used to monitor that endpoint, and turn it into a scrapable metric.
