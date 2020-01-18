@@ -87,7 +87,7 @@ func newHealthcheckCollector() *healthcheckCollector {
 	}
 }
 
-// Describe is required by prometheus to add out metrics to the default promethues desc channel
+// Describe is required by prometheus to add out metrics to the default prometheus desc channel
 func (collector *healthcheckCollector) Describe(ch chan<- *prometheus.Desc) {
 
 	// Update this section with each metric you create for a given collector
